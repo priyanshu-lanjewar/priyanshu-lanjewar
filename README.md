@@ -9,11 +9,11 @@
 
 - ⚡ Fun fact **I really Hate Programing.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Find Me On:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/priyanshu-lanjewar-2092a51b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanshu-lanjewar" height="30" width="40" /></a>
 <a href="https://fb.com/pwl22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pwl22" height="30" width="40" /></a>
-<a href="https://instagram.com/_.duggggu._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.duggggu._" height="30" width="40" /></a>
+<a href="https://instagram.com/manufacturing_defect__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.duggggu._" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/priyanshulanjewar1/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="priyanshulanjewar1/profile" height="30" width="40" /></a>
 </p>
 
