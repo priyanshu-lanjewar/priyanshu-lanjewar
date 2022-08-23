@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **priyanshu.lanjewar@yahoo.com**
 
-- ⚡ Fun fact **I really Hate Programing.**
+- ⚡ Fun fact **I Hated Programming Once, and Its my Life Now.**
 
 <h3 align="left">Find Me On:</h3>
 <p align="left">
